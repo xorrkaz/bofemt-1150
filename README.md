@@ -4,6 +4,8 @@ Welcome to the Programming Your Network with YANG Birds of a Feather.  Below you
 
 -   [YANG Catalog](https://yangcatalog.org): Search for modules and nodes, view module details, and validate module syntax
 
+-   [YANG Module GitHub Repo](https://github.com/YangModels/yang): GitHub repo featuring YANG modules from a number of standards bodies and vendors
+
 -   [YANG Suite](https://github.com/CiscoDevNet/yangsuite): Capable of dynamic discovery of installed application plugins. Provides common library APIs for logging, filesystem access, GUI appearance and behavior, and client-server communication
 
 -   [pyang](https://pypi.org/project/pyang/): CLI tool for validating YANG modules and viewing modules in tree form
