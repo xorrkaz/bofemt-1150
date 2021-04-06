@@ -23,3 +23,7 @@ Welcome to the Programming Your Network with YANG Birds of a Feather.  Below you
 -   [IOS-XE Programmability Always-On Sandbox](https://devnetsandbox.cisco.com/RM/Diagram/Index/27d9747a-db48-4565-8d44-df318fce37ad?diagramType=Topology): Test NETCONF and RESTCONF at any time with a CSR1000v
 
 -   [Getting Started with Model-Driven Telemetry](https://blogs.cisco.com/developer/getting-started-with-model-driven-telemetry): Blog showing off how to use Telegraf, Influx and Grafana to start visualizing your network from telemeetry streams
+
+-   [Effectively Understand and Leverage YANG with NETCONF and RESTCONF for Model Driven Programmability - DGTL-BRKPRG-1368](https://www.ciscolive.com/global/on-demand-library.html?search=YANG&search.event=ciscoliveus2020#/session/1573153551504001JiOR): Cisco Live 2020 session breaking down the IETF standards of NETCONF, RESTCONF and YANG
+
+-   [Network Automation using YANG Models across XE, XR, & NX](https://yang-prog-lab.ciscolive.com/pod/1): Cisco Live Hands-On session for exploring methods & tools of interacting with YANG, NETCONF, & RESTCONF
