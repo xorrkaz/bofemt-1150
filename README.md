@@ -8,6 +8,8 @@ Welcome to the Programming Your Network with YANG Birds of a Feather.  Below you
 
 -   [YANG Suite](https://github.com/CiscoDevNet/yangsuite): Capable of dynamic discovery of installed application plugins. Provides common library APIs for logging, filesystem access, GUI appearance and behavior, and client-server communication
 
+-   [YANG Suite on DevNet](https://developer.cisco.com/yangsuite/) - Learn how to use YANG Suite to explore YANG modules and interact with devices
+
 -   [ANX](https://github.com/cisco-ie/anx): This is a graphical explorer for YANG models supported by a NETCONF device or service orchestrator
 
 -   [pyang](https://pypi.org/project/pyang/): CLI tool for validating YANG modules and viewing modules in tree form
